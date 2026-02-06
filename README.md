@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ujjal Das
 # 💫 About Me:
-I'm a dedicated computer science student passionate about technology and coding. Currently diving deep into **web development** (JavaScript, CSS, TypeScript) and exploring **AI integration** in real-world applications.<br><br>- 🔭 Building hands-on projects to strengthen my skills  <br>- 🌱 Learning full-stack development and machine learning basics  <br>- 💻 Active on LeetCode – solving problems in C++ and improving algorithms  <br>- ⚡ Fun fact: I love turning ideas into working code!  <br><br>Feel free to check out my repositories and connect! 🚀
+I'm a dedicated computer science student passionate about technology and coding. Currently diving deep into **web development** (JavaScript, CSS, python) and exploring **AI integration** in real-world applications.<br><br>- 🔭 Building hands-on projects to strengthen my skills  <br>- 🌱 Learning full-stack development and machine learning basics  <br>- 💻 Active on LeetCode – solving problems in python and improving algorithms  <br>- ⚡ Fun fact: I love turning ideas into working code!  <br><br>Feel free to check out my repositories and connect! 🚀
 
 
 ## 🌐 Socials:
